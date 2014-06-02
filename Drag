@@ -1,0 +1,27 @@
+Yêu cầu tìm hiểu tổng quan về FOSS
+-	Xã hội :
+	+ Tổ chức cộng đồng :
+	    Nếu như các phần mềm sở hữu do một chủ thể duy nhất phát triển, quá trình phân tích thiết kế xây dựng phần mềm được hoạch định và kiểm soát chặt chẽ (mô hình dàn nhạc) thì PMMNM được phát triển theo mô hình chợ trời, trong đó người sử dụng đóng vai trò của người phát triển phần mềm. Quá trình ra quyết định là động, không có một định hướng cứng nhắc từ thời điểm ban đầu. Độ tự do của nhà phát triển là rất lớn. có thể lựa chọn các quyết định theo xu hướng cá nhân, thiểu số và cũng có khi là đa số. Có rất nhiều trường hợp khi các ý kiến không thống nhất đã sinh ra 2 dòng phần mềm từ một phần mềm ban đầu trong quá trình phát triển.
+	+ Các loại thành viên : 
+•	Thành viên chiến lược - Strategic Members
+•	Thành viên kế hoạch - Enterprise Members.
+•	Thành viên cộng tác - Associate members.
+•	Thành viên giải pháp - Solutions Members.
+	
+	 +  Những định hướng vĩ mô, kế hoạch, quyết định được thực hiện : 
+	     Kịch bản phát triển phổ biến của PMMNM là: có một nhà phát triển đưa ra một phiên bản đầu tiên cộng ý tưởng về phần mềm. Các nhà phát triển khác hoàn thiện các chức năng đề ra trong ý tưởng đó, tiếp tục đề xuất tính nằng mới. Quá trình liên tục được lặp lại. Để thuận tiện hơn cho các loại người sử dụng, các phiên bản của PMMNM thường được qui định như sau:
+•	Phiên bản dịch đêm: với mã nguồn được thay đổi thường xuyên, hàng ngày vào buổi đêm bản nhị phân của phiên bản mới nhất này được dịch. Phiên bản này chứa các tính năng mới nhất, tuy nhiên chưa được kiểm tra và rà soát kỹ càng, còn tiềm ẩn nhiều lỗi, chưa ổn định. Phiên bản này chủ yếu cho các nhà phát triển thử nghiệm và hoàn thiện.
+•	Phiên bản thử nghiệm: Đã được rà soát các lỗi, tuy nhiên vẫn chưa ổn định. Dành cho NSD thử nghiệm để có ý kiến phản hồi.
+•	Phiên bản bền vững: không tích hợp các tính năng chưa ổn định. Dành cho người sử dụng đinh khai thác phần mềm.
+	 + Cộng đồng gồm những thành phần xã hội nào :
+•	Nhân viên các công ty: Apple, Microsoft, IBM, Google,….
+•	Tình nguyện viên tự do : những người có đam mê muốn đóng góp và sáng chế…
+•	Sinh viên, nghiên cứu viên : muốn học hỏi kinh nghiệm và sử dụng trong việc học tập và nghiên cứu….
+•	……
+	 + Tỉ lệ nhân lực và tỉ lệ đóng góp của từng thành phần: tổng 100%
+Nhân viên các công ty	50%
+Tình nguyện viên tự do	30%
+Sinh viên , nghiên cứu viên	15%
+Khác	5%
+
+
